@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="DPM235434_CaoYenKhoa_Adapter/DPM235434_CaoYenKhoa_Adapter.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Bridge/DPM235434_CaoYenKhoa_Bridge.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_ChainOfResponsibility/DPM235434_CaoYenKhoa_ChainOfResponsibility.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Command/DPM235434_CaoYenKhoa_Command.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Composite/DPM235434_CaoYenKhoa_Composite.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Decorator/DPM235434_CaoYenKhoa_Decorator.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Facade/DPM235434_CaoYenKhoa_Facade.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Flyweight/DPM235434_CaoYenKhoa_Flyweight.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Interator/DPM235434_CaoYenKhoa_Interator.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Mediator/DPM235434_CaoYenKhoa_Mediator.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Memento/DPM235434_CaoYenKhoa_Memento.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Observe/DPM235434_CaoYenKhoa_Observe.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Proxy/DPM235434_CaoYenKhoa_Proxy.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_State/DPM235434_CaoYenKhoa_State.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Strategy/DPM235434_CaoYenKhoa_Strategy.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_TemplateMethod/DPM235434_CaoYenKhoa_TemplateMethod.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Visitor/DPM235434_CaoYenKhoa_Visitor.csproj" />
+</Solution>
