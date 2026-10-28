@@ -1,19 +1,36 @@
 <Solution>
   <Project Path="DPM235434_CaoYenKhoa_Adapter/DPM235434_CaoYenKhoa_Adapter.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Adapter_NhanVienBanHang/DPM235434_CaoYenKhoa_Adapter_NhanVienBanHang.csproj" Id="9ef4734b-7d72-4ead-8733-771c0d5b147f" />
   <Project Path="DPM235434_CaoYenKhoa_Bridge/DPM235434_CaoYenKhoa_Bridge.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Bridge_NhanVienBanHang/DPM235434_CaoYenKhoa_Bridge_NhanVienBanHang.csproj" Id="d3fdd51f-bc2a-4a0f-a392-903d957136b1" />
   <Project Path="DPM235434_CaoYenKhoa_ChainOfResponsibility/DPM235434_CaoYenKhoa_ChainOfResponsibility.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_ChainOfResponsitory_NhanVienBanHang/DPM235434_CaoYenKhoa_ChainOfResponsibility_NhanVienBanHang.csproj" Id="a5e11108-05ce-47f9-8a81-2bd9d6a99312" />
   <Project Path="DPM235434_CaoYenKhoa_Command/DPM235434_CaoYenKhoa_Command.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Command_NhanVienBanHang/DPM235434_CaoYenKhoa_Command_NhanVienBanHang.csproj" Id="b6bd994c-3592-4665-92a6-6776a09a69ba" />
   <Project Path="DPM235434_CaoYenKhoa_Composite/DPM235434_CaoYenKhoa_Composite.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Composite_NhanVienBanHang/DPM235434_CaoYenKhoa_Composite_NhanVienBanHang.csproj" Id="1e47d16b-d44b-467a-b429-551c39fff859" />
   <Project Path="DPM235434_CaoYenKhoa_Decorator/DPM235434_CaoYenKhoa_Decorator.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Decorator_NhanVienBanHang/DPM235434_CaoYenKhoa_Decorator_NhanVienBanHang.csproj" Id="e331bdd8-1a0c-4ea7-a2ec-433003b185c2" />
   <Project Path="DPM235434_CaoYenKhoa_Facade/DPM235434_CaoYenKhoa_Facade.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Facade_NhanVienBanHang/DPM235434_CaoYenKhoa_Facade_NhanVienBanHang.csproj" Id="71f6d9ac-b894-4197-ad3d-4906760ea067" />
   <Project Path="DPM235434_CaoYenKhoa_Flyweight/DPM235434_CaoYenKhoa_Flyweight.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Flyweight_NhanVienBanHang/DPM235434_CaoYenKhoa_Flyweight_NhanVienBanHang.csproj" Id="c7bddffa-5738-49b6-9423-82be1a0ac96d" />
   <Project Path="DPM235434_CaoYenKhoa_Interator/DPM235434_CaoYenKhoa_Interator.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Interator_NhanVienBanHang/DPM235434_CaoYenKhoa_Interator_NhanVienBanHang.csproj" Id="9f956245-aa34-4082-a2ce-c52167aaecd4" />
   <Project Path="DPM235434_CaoYenKhoa_Mediator/DPM235434_CaoYenKhoa_Mediator.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Mediator_NhanVienBanHang/DPM235434_CaoYenKhoa_Mediator_NhanVienBanHang.csproj" Id="bc926d97-17c0-4a8d-bdd4-87b0bd6afe51" />
   <Project Path="DPM235434_CaoYenKhoa_Memento/DPM235434_CaoYenKhoa_Memento.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Memetor_NhanVienBanHang/DPM235434_CaoYenKhoa_Memetor_NhanVienBanHang.csproj" Id="f9761f19-9e94-4dc1-8404-1285fb1f7496" />
   <Project Path="DPM235434_CaoYenKhoa_Observe/DPM235434_CaoYenKhoa_Observe.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Observe_NhanVienBanHang/DPM235434_CaoYenKhoa_Observe_NhanVienBanHang.csproj" Id="92fec6a4-642b-4f2f-b8ad-fb0808bc9291" />
   <Project Path="DPM235434_CaoYenKhoa_Proxy/DPM235434_CaoYenKhoa_Proxy.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Proxy_NhanVienBanHang/DPM235434_CaoYenKhoa_Proxy_NhanVienBanHang.csproj" Id="d143c84f-602b-443b-856c-b2b6d6395ffb" />
   <Project Path="DPM235434_CaoYenKhoa_State/DPM235434_CaoYenKhoa_State.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Stategy/DPM235434_CaoYenKhoa_Strategy_NhanVienBanHang.csproj" Id="a567942d-234c-4373-aa17-67ad1c9af805" />
+  <Project Path="DPM235434_CaoYenKhoa_State_NhanVienBanHang/DPM235434_CaoYenKhoa_State_NhanVienBanHang.csproj" Id="997996e3-cabd-4dfc-90c6-7ec316875392" />
   <Project Path="DPM235434_CaoYenKhoa_Strategy/DPM235434_CaoYenKhoa_Strategy.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_TemplateMenthod_NhanVienBanHang/DPM235434_CaoYenKhoa_TemplateMenthod_NhanVienBanHang.csproj" Id="a9a63dbd-b69c-4e51-84e6-bc9a499f9157" />
   <Project Path="DPM235434_CaoYenKhoa_TemplateMethod/DPM235434_CaoYenKhoa_TemplateMethod.csproj" />
   <Project Path="DPM235434_CaoYenKhoa_Visitor/DPM235434_CaoYenKhoa_Visitor.csproj" />
+  <Project Path="DPM235434_CaoYenKhoa_Visitor_NhanVienBanHang/DPM235434_CaoYenKhoa_Visitor_NhanVienBanHang.csproj" Id="a2306789-74b4-4194-9b9b-56227ad625a1" />
 </Solution>
